@@ -1,4 +1,4 @@
-# WML API Demo
+# Object Detection API Demo
 
 ## Train a model
 
